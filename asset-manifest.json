@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nikhil_Website/static/css/main.9689d7c0.chunk.css",
+    "main.css": "/Nikhil_Website/static/css/main.afde4826.chunk.css",
     "main.js": "/Nikhil_Website/static/js/main.101e3662.chunk.js",
     "main.js.map": "/Nikhil_Website/static/js/main.101e3662.chunk.js.map",
     "runtime-main.js": "/Nikhil_Website/static/js/runtime-main.2483397d.js",
@@ -9,10 +9,10 @@
     "static/js/2.acb056b6.chunk.js": "/Nikhil_Website/static/js/2.acb056b6.chunk.js",
     "static/js/2.acb056b6.chunk.js.map": "/Nikhil_Website/static/js/2.acb056b6.chunk.js.map",
     "index.html": "/Nikhil_Website/index.html",
-    "precache-manifest.213e465cd0d7d271d8af07cb381cc21e.js": "/Nikhil_Website/precache-manifest.213e465cd0d7d271d8af07cb381cc21e.js",
+    "precache-manifest.e124a5ac62d5373e3633ad435319dc86.js": "/Nikhil_Website/precache-manifest.e124a5ac62d5373e3633ad435319dc86.js",
     "service-worker.js": "/Nikhil_Website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Nikhil_Website/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.9689d7c0.chunk.css.map": "/Nikhil_Website/static/css/main.9689d7c0.chunk.css.map",
+    "static/css/main.afde4826.chunk.css.map": "/Nikhil_Website/static/css/main.afde4826.chunk.css.map",
     "static/js/2.acb056b6.chunk.js.LICENSE.txt": "/Nikhil_Website/static/js/2.acb056b6.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Nikhil_Website/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.2483397d.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.acb056b6.chunk.js",
-    "static/css/main.9689d7c0.chunk.css",
+    "static/css/main.afde4826.chunk.css",
     "static/js/main.101e3662.chunk.js"
   ]
 }
