@@ -1,0 +1,17 @@
+#imagec{
+    background-size: cover;
+    display: block;
+    margin: auto;
+
+}
+#navbar{
+    background-color: black;
+    margin-bottom: 20px;
+    height: 80px;
+}
+.footer{
+    color: whitesmoke;
+    margin-top: 10px;
+    border: solid red 2px;
+    background-color: rgb(37, 34, 34);
+}
