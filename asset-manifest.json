@@ -1,30 +1,27 @@
 {
   "files": {
     "main.css": "/Nikhil_Website/static/css/main.afde4826.chunk.css",
-    "main.js": "/Nikhil_Website/static/js/main.a9658436.chunk.js",
-    "main.js.map": "/Nikhil_Website/static/js/main.a9658436.chunk.js.map",
+    "main.js": "/Nikhil_Website/static/js/main.b7cfa139.chunk.js",
+    "main.js.map": "/Nikhil_Website/static/js/main.b7cfa139.chunk.js.map",
     "runtime-main.js": "/Nikhil_Website/static/js/runtime-main.2483397d.js",
     "runtime-main.js.map": "/Nikhil_Website/static/js/runtime-main.2483397d.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Nikhil_Website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.44223381.chunk.js": "/Nikhil_Website/static/js/2.44223381.chunk.js",
-    "static/js/2.44223381.chunk.js.map": "/Nikhil_Website/static/js/2.44223381.chunk.js.map",
+    "static/js/2.d297bdb8.chunk.js": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js",
+    "static/js/2.d297bdb8.chunk.js.map": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js.map",
     "index.html": "/Nikhil_Website/index.html",
-    "precache-manifest.f1b9c825afae44baf9fe2fc4fafbb671.js": "/Nikhil_Website/precache-manifest.f1b9c825afae44baf9fe2fc4fafbb671.js",
+    "precache-manifest.e78b90e9a0ab276597820e952892451f.js": "/Nikhil_Website/precache-manifest.e78b90e9a0ab276597820e952892451f.js",
     "service-worker.js": "/Nikhil_Website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Nikhil_Website/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.afde4826.chunk.css.map": "/Nikhil_Website/static/css/main.afde4826.chunk.css.map",
-    "static/js/2.44223381.chunk.js.LICENSE.txt": "/Nikhil_Website/static/js/2.44223381.chunk.js.LICENSE.txt",
+    "static/js/2.d297bdb8.chunk.js.LICENSE.txt": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Nikhil_Website/static/media/logo.5d5d9eef.svg",
-    "static/media/pizza.jpg": "/Nikhil_Website/static/media/pizza.67184173.jpg",
-    "static/media/sp1.png": "/Nikhil_Website/static/media/sp1.37895532.png",
-    "static/media/sp2.png": "/Nikhil_Website/static/media/sp2.870e5658.png",
-    "static/media/sp5.png": "/Nikhil_Website/static/media/sp5.e0cb7010.png"
+    "static/media/pizza.jpg": "/Nikhil_Website/static/media/pizza.67184173.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2483397d.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.44223381.chunk.js",
+    "static/js/2.d297bdb8.chunk.js",
     "static/css/main.afde4826.chunk.css",
-    "static/js/main.a9658436.chunk.js"
+    "static/js/main.b7cfa139.chunk.js"
   ]
 }
