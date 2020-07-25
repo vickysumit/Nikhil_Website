@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/Nikhil_Website/static/css/main.afde4826.chunk.css",
-    "main.js": "/Nikhil_Website/static/js/main.458489d9.chunk.js",
-    "main.js.map": "/Nikhil_Website/static/js/main.458489d9.chunk.js.map",
+    "main.js": "/Nikhil_Website/static/js/main.713cfe80.chunk.js",
+    "main.js.map": "/Nikhil_Website/static/js/main.713cfe80.chunk.js.map",
     "runtime-main.js": "/Nikhil_Website/static/js/runtime-main.2483397d.js",
     "runtime-main.js.map": "/Nikhil_Website/static/js/runtime-main.2483397d.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Nikhil_Website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d297bdb8.chunk.js": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js",
-    "static/js/2.d297bdb8.chunk.js.map": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js.map",
+    "static/js/2.11378598.chunk.js": "/Nikhil_Website/static/js/2.11378598.chunk.js",
+    "static/js/2.11378598.chunk.js.map": "/Nikhil_Website/static/js/2.11378598.chunk.js.map",
     "index.html": "/Nikhil_Website/index.html",
-    "precache-manifest.a9d7aec87565af108f389a7b3fd50e45.js": "/Nikhil_Website/precache-manifest.a9d7aec87565af108f389a7b3fd50e45.js",
+    "precache-manifest.4921d6ddc5e2028afaf7c9c195d95197.js": "/Nikhil_Website/precache-manifest.4921d6ddc5e2028afaf7c9c195d95197.js",
     "service-worker.js": "/Nikhil_Website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Nikhil_Website/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.afde4826.chunk.css.map": "/Nikhil_Website/static/css/main.afde4826.chunk.css.map",
-    "static/js/2.d297bdb8.chunk.js.LICENSE.txt": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js.LICENSE.txt",
+    "static/js/2.11378598.chunk.js.LICENSE.txt": "/Nikhil_Website/static/js/2.11378598.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Nikhil_Website/static/media/logo.5d5d9eef.svg",
-    "static/media/pizza.jpg": "/Nikhil_Website/static/media/pizza.67184173.jpg"
+    "static/media/pizza.jpg": "/Nikhil_Website/static/media/pizza.67184173.jpg",
+    "static/media/sp1.png": "/Nikhil_Website/static/media/sp1.37895532.png",
+    "static/media/sp2.png": "/Nikhil_Website/static/media/sp2.870e5658.png",
+    "static/media/sp5.png": "/Nikhil_Website/static/media/sp5.e0cb7010.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2483397d.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d297bdb8.chunk.js",
+    "static/js/2.11378598.chunk.js",
     "static/css/main.afde4826.chunk.css",
-    "static/js/main.458489d9.chunk.js"
+    "static/js/main.713cfe80.chunk.js"
   ]
 }
