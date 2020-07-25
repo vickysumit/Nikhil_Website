@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { items } from "../shared/dishes";
 import "../css/styles.css";
+import pizza from './pizza.jpg';
+
 import {   Carousel,
     CarouselItem,
     CarouselControl,
@@ -65,6 +67,10 @@ function Home(props){
                         <Example />
 
                     </div>
+                    
+                </div>
+                <div className="row">
+                  <img src={pizza} alt="pizza" />
                 </div>
             </div>
         </div>
